@@ -1,7 +1,7 @@
 # oop_hw_2
 Object Oriented Concepts
 
-## Watch this awesome introduction into Object Oriented Programming concepts and edit this README to record what you feel is one of the major benefits you see in OO programming.
+## Watch this awesome introduction into Object Oriented Programming concepts and edit this README to record what you feel is one of the major benefits you see in OO programming. You also learn yet another valuable programming term...  Spaghetti code!
 
 https://youtu.be/Lv1LWRQIBYg
 
